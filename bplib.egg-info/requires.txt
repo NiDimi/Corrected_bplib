@@ -1,0 +1,7 @@
+cffi>=1.0.0
+future>=0.14.3
+msgpack-python>=0.4.6
+petlib>=0.0.43
+pycparser>=2.10
+pytest-cov>=1.8.1
+pytest>=2.5.0
